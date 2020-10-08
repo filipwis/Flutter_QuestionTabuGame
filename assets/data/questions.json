@@ -1,0 +1,154 @@
+[
+  { "question": "Jaki jest Twój ulubiony kolor?" },
+  {
+    "question": "Wymień najbardziej żenujące wspomnienie jakie przychodzi Ci na myśl."
+  },
+  {
+    "question": "Gdybyś na jeden dzień mógł/mogła stać się osobą przeciwnej płci, co jako pierwsze byś zrobił/zrobiła? "
+  },
+  { "question": "Co najbardziej cenisz w ludziach?" },
+  { "question": "Jaki jest Twój pogląd na wiarę?" },
+  { "question": "Czy paliłeś/paliłaś kiedyś marihuane? " },
+  { "question": "Jaka jest Twoja ulubiona potrawa?" },
+  { "question": "Pomidorowa vs. Rosół" },
+  { "question": "Którą porę roku lubisz najbardziej?" },
+  { "question": "Czy ukradłeś/ukradłaś coś kiedyś ze sklepu?" },
+  { "question": "Jakie jest Twoje największe marzenie?" },
+  { "question": "Jaki jest Twój ulubiony sport?" },
+  {
+    "question": "Co powiedziałbyś/powiedziałabyś samemu/samej sobie sprzed 5 lat?"
+  },
+  { "question": "Jaki jest/był Twój ulubiony przedmiot w szkole?" },
+  { "question": "Jaka jest Twoja ulubiona bajka z dzieciństwa?" },
+  { "question": "Miasto vs. Wieś" },
+  {
+    "question": "Jaki jest Twój najgorszy koszmar jaki kiedykolwiek Ci się przyśnił?"
+  },
+  {
+    "question": "Czy jesteś obecnie zakochany/zakochana? Jeżeli tak to w kim?"
+  },
+  { "question": "Jaki dobry film ostatnio obejrzałeś/obejrzałaś?" },
+  { "question": "Wymień najważniejsze osoby w Twoim życiu." },
+  { "question": "Co jest największą wartością w Twoim życiu?" },
+  { "question": "Ile partnerek/partnerów miałeś/miałaś w swoim życiu?" },
+  { "question": "Jakie są Twoje największe zainteresowania? " },
+  { "question": "Ile kilogramów ważysz?" },
+  { "question": "Wymień 3 osoby, za którymi nie przepadasz. " },
+  {
+    "question": "Przeczytaj ostatnią wiadomość, którą wysłałeś/wysłałaś ostatnio na Messengerze. "
+  },
+  { "question": "Psy vs. Koty" },
+  { "question": "Czy masz jakieś nałogi? Jeśli tak to jakie? " },
+  { "question": "W jakim wieku wypiłeś/wypiłeś pierwszy alkohol?" },
+  { "question": "Impreza w klubie vs. Domówka" },
+  { "question": "Jaka jest Twoja ulubiona piosenka? " },
+  {
+    "question": "Czy jest jakaś piosenka, która ma dla Ciebie jakie znaczenie? Jeśli tak to opowiedź o niej."
+  },
+  { "question": "Czego się boisz? " },
+  {
+    "question": "Kto jest najbardziej seksowną dziewczyną/najbardziej seksownym chłopakiem jakiego znasz?"
+  },
+  { "question": "Jeśli ktoś Cię denerwuje to czy dajesz to po sobie poznać?" },
+  {
+    "question": "Jaki jest najlepszy serial, który ostatnio oglądnąłeś/oglądnęłaś?"
+  },
+  { "question": "Co Cię najbardziej relaksuje?" },
+  {
+    "question": "Jaka jest najlepsza książka jaką ostatnio przeczytałeś/przeczytałaś?"
+  },
+  { "question": "Kto jest Twoim najlepszym przyjacielem/przyjaciółką? " },
+  {
+    "question": "Opowiedź, kiedy byłeś/byłaś najbardziej pijany/pijana w swoim życiu."
+  },
+  { "question": "Jaki jest Twój ulubiony piosenkarz/piosenkarka?" },
+  { "question": "Jakiej muzyki głównie słuchasz?" },
+  {
+    "question": "W jakim kraju poza Polską mógłbyś/mogłabyś zamieszkać na stałe? "
+  },
+  { "question": "Jaka jest Twoja wymarzona praca?" },
+  {
+    "question": "Jeśli wygrałbyś/wygrałabyś 1 milion jak byś go rozdysponował/rozdysponowała?"
+  },
+  { "question": "Jaka jest Twoja ulubiona kuchnia świata?" },
+  { "question": "Jakie jest najpiękniejsze miejsce, w którym byłeś/byłaś?" },
+  { "question": "Jaka jest Twoja największa wada?" },
+  { "question": "Jaka jest Twoja największa zaleta?" },
+  { "question": "Wymień 3 rzeczy, które w sobie najbardziej cenisz." },
+  {
+    "question": "Jeśli istnieje reinkarnacja kim chciałbyś/chciałabyś być w przyszłym wcieleniu? "
+  },
+  { "question": "Śniadanie na słodko vs. Śniadanie na słono" },
+  { "question": "Wolisz mieć wszystko zaplanowanie czy żyć na spontanie? " },
+  {
+    "question": "Wymień jeden moment z Twojego życia, który doceniasz najbardziej."
+  },
+  { "question": "Seks w ciemności vs. Seks przy świetle" },
+  { "question": "Wymień 3 pozytywne cechy w graczu po prawej stronie." },
+  { "question": "Wymień 3 rzeczy, które denerwują Cię w graczu po prawej." },
+  { "question": "Wymień 3 pozytywne cechy w graczu po lewej stronie." },
+  { "question": "Wymień 3 rzeczy, które denerwują Cię w graczu po lewej" },
+  { "question": "Rozmawiasz czasami sam ze sobą?" },
+  { "question": "Jaki jest Twój ulubiony aktor/aktorka?" },
+  { "question": "Czy jesteś asertywny/asertywna?" },
+  { "question": "Kiedy ostatnio się całowałeś/całowałaś?" },
+  {
+    "question": "Czy jest jakaś rzecz, o której nikomu nie powiedziałeś/powiedziałaś? "
+  },
+  { "question": "Jak widzisz siebie na emeryturze?" },
+  {
+    "question": "Jakie jest miejsce, gdzie najbardziej chciałbyś/chciałabyś pojechać?"
+  },
+  { "question": "Jakie jest Twoje drugie imię?" },
+  {
+    "question": "Jakie jest miasto w Polsce, gdzie chciałbyś/chciałabyś mieszkać na stałę? "
+  },
+  { "question": "Wymień rzecz, z której jesteś najbardziej dumny" },
+  { "question": "Herbata vs. Kawa" },
+  { "question": "W jakich językach obcych chciałbyś mówić? " },
+  { "question": "Idealnie pomysł na pierwszą randkę to…?" },
+  { "question": "Co najbardziej cenisz w przyjaźni?" },
+  { "question": "Jaki jest Twój typ idealnego mężczyzny/kobiety?" },
+  { "question": "Kiedy ostatnio płakałeś/płakałaś? " },
+  { "question": "Jakim kierowcą jesteś? " },
+  { "question": "Za którym razem zdałeś/zdałaś prawo jazdy?" },
+  { "question": "Czy grasz na jakimś instrumencie? " },
+  { "question": "Jaki jest Twój ulubiony owoc?" },
+  { "question": "Gdzie ostatnio spędziłeś/spędziłaś wakacje?" },
+  {
+    "question": "Gdybyś wiedział/wiedziała, że jutro umrzesz co zrobiłbyś w pierwszej kolejności? "
+  },
+  { "question": "Morze vs. Góry" },
+  { "question": "Gorąco vs. Zimno " },
+  { "question": "Jesteś za czy przeciwko aborcji? " },
+  { "question": "Czy wierzysz w miłość od pierwszego wejrzenia? " },
+  {
+    "question": "Jeśli jesteś w związku to czy kiedykolwiek myślałeś/myślałaś o jego zakończeniu?"
+  },
+  { "question": "Czego się wstydzisz? " },
+  { "question": "Facebook vs. Instagram" },
+  { "question": "Czy lubisz latać samolotem?" },
+  { "question": "Co ostatnio jadłeś/jadłaś na obiad?" },
+  { "question": "Czy Twoim zdaniem pieniądze dają szczęście? " },
+  { "question": "Jaka jest najbardziej irytująca rzecz na świecie? " },
+  { "question": "Preferujesz pracować w dzień czy w nocy? " },
+  { "question": "Którego nauczyciela wspominasz najgorzej?" },
+  { "question": "Wymień osoby, które Cię inspirują." },
+  { "question": "Ile chciałbyś/chciałabyś w przyszłości mieć dzieci? " },
+  { "question": "Jaka jest najdziwniejsza rzecz jaką zrobiłeś?" },
+  { "question": "Jesteś introwertykiem czy ekstrawertykiem?" },
+  { "question": "Czego całkowicie nie potrafisz robić? " },
+  { "question": "Wymarzone wakacje to…? " },
+  { "question": "Kto Cię najbardziej irytuje? " },
+  { "question": "Jaki jest Twój ulubiony kanał na YouTube?" },
+  { "question": "Umysł czy uroda?" },
+  {
+    "question": "Wolałbyś/wolałabyś być z osobą, która jest wyjątkowo inteligenta, ale mało atrakcyjna, czy osobą, która jest wyjątkowo atrakcyjna, ale mało inteligentna? "
+  },
+  { "question": "Preferujesz partnerów młodszych czy starszych od Ciebie? " },
+  { "question": "Opowiedź Twoją najgorszą pierwszą randkę." },
+  {
+    "question": "Jaki jest najgorszy prezent jaki kiedykolwek dostałeś/dostałaś? "
+  },
+  { "question": "Jakie jest Twoje najlepsze wspomienie z tego roku?" }
+]
